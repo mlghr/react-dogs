@@ -1,0 +1,13 @@
+nav {
+    background-color: indianred;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  nav a {
+    padding: 1em 0;
+    width: 10em;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+  }
